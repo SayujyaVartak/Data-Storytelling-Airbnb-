@@ -7,14 +7,14 @@ Suppose that you are working as a data analyst at Airbnb. For the past few month
 
 The different leaders at Airbnb want to understand some important insights based on various attributes in the dataset so as to increase the revenue such as -
 
-Which type of hosts to acquire more and where?
-The categorisation of customers based on their preferences.
-What are the neighbourhoods they need to target?
-What is the pricing ranges preferred by customers?
-The various kinds of properties that exist w.r.t. customer preferences.
-Adjustments in the existing properties to make it more customer-oriented.
-What are the most popular localities and properties in New York currently?
-How to get unpopular properties more traction? and so on...
+1. Which type of hosts to acquire more and where?<br>
+2. The categorisation of customers based on their preferences.<br>
+3. What are the neighbourhoods they need to target?<br>
+4. What is the pricing ranges preferred by customers?<br>
+5. The various kinds of properties that exist w.r.t. customer preferences.<br>
+6. Adjustments in the existing properties to make it more customer-oriented.<br>
+7. What are the most popular localities and properties in New York currently?<br>
+8. How to get unpopular properties more traction? and so on...<br>
 
 ## End Objective
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, you need to give two presentations to the following groups.
